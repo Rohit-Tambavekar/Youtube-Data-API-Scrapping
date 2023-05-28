@@ -124,6 +124,24 @@ The YouTube Data Scraper utilizes the YouTube Data API to retrieve information f
 
 If you encounter any issues or have any questions, please refer to the project's documentation or open an issue on the GitHub repository. 
 
+## Screenshots
+
+1. [[Get data Screenshot](https://github.com/Rohit-Tambavekar/Youtube-Data-API-Scrapping/blob/main/Screenshot_1.png)
+
+2. [Get JSON Screenshot](https://github.com/Rohit-Tambavekar/Youtube-Data-API-Scrapping/blob/main/Screenshot_2.png)
+
+3. [MongoDb list Screenshot](https://github.com/Rohit-Tambavekar/Youtube-Data-API-Scrapping/blob/main/Screenshot_3.png)
+
+4. [Tabular analysis Screenshots](https://github.com/Rohit-Tambavekar/Youtube-Data-API-Scrapping/blob/main/Screenshot_4.png)
+
+5. [Charts Screenshots](https://github.com/Rohit-Tambavekar/Youtube-Data-API-Scrapping/blob/main/Screenshot_5.png)
+
+6. [Charts Screenshots](https://github.com/Rohit-Tambavekar/Youtube-Data-API-Scrapping/blob/main/Screenshot_6.png)
+
+7. [Charts Screenshots](https://github.com/Rohit-Tambavekar/Youtube-Data-API-Scrapping/blob/main/Screenshot_7.png)
+
+8. [Charts Screenshots](https://github.com/Rohit-Tambavekar/Youtube-Data-API-Scrapping/blob/main/Screenshot_8.png)
+
 ## License 
 
 The YouTube Data Scraper is released under the MIT License. Feel free to modify and use the code according to the terms of the license. 
