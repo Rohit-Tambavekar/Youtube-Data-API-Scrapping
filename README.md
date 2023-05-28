@@ -6,7 +6,7 @@
 - [Requirements](#Requirements)
 - [Installation](#installation)
 - [App-Flow](#App-Flow)
-- [Screenshots](#screenshots)
+- [Screenshots](https://github.com/Rohit-Tambavekar/Youtube-Data-API-Scrapping/blob/main/Screenshot_1.png)
 - [License](#license)
 
 # Introduction
