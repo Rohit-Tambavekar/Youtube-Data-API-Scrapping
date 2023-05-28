@@ -19,13 +19,13 @@ The YouTube Data Scraper is a Python application that allows you to fetch inform
 ### `Get Channel Information: `
 You can fetch detailed information about a specific YouTube channel using its channel ID. The scraper retrieves the channel name, subscriber count, view count, description, country, video count, playlist ID, channel type, and channel status. This information can be useful for analyzing the popularity and engagement of a channel. Along with the channel details we can fetch the following sub-details in one go. 
 
-### `Fetch Video Information:`
+### `Get Video Information:`
 Retrieve comprehensive details about a specific video. The scraper fetches the video title, description, tags, published date, view count, like count, favourite count, comment count, and thumbnails. This information can be used to analyze video performance, identify trends, and understand audience engagement. 
 
-### `Fetch Playlist Information: `
+### `Get Playlist Information: `
 The YouTube Data Scraper lets you fetch playlist information. You can retrieve details such as the playlist title, description, published date, and item count. This feature is particularly useful when you want to analyze playlists and their contents. 
 
-### `Fetch Comments: `
+### `Get Comments: `
 You can also retrieve comments for a specific video. This feature allows you to gather user feedback, sentiment analysis, and engage in deeper audience insights. 
 
 ### `Multiple Channel and Video Data Retrieval: `
@@ -79,11 +79,11 @@ git clone https://github.com/Rohit-Tambavekar/Youtube-Data-API-Scrapping
 
 ### Obtain YouTube API credentials: 
 
-> Visit the Google Cloud Console. 
+> Visit the `Google Cloud Console`. 
 
 > Create a new project or select an existing project. 
 
-> Enable the YouTube Data API v3 for your project. 
+> Enable the `YouTube Data API v3` for your project. 
 
 > Create API credentials for youtube API v3. 
 
@@ -97,19 +97,25 @@ The application will start running and open in your default web browser.
 
 > Once the application is running, you will see a web interface with various options. 
 
-> Choose the desired operation: "Fetch Channel Information," "Fetch Video Information," "Fetch Playlist Information," or "Fetch Comments." 
+> Choose the desired operation: "Get Channel Information," "Get Video Information," "Get Playlist Information," and "Get Comments" in one click. 
 
-> Enter the required information, such as channel ID, channel IDs, and YouTube API, depending on the selected operation. 
+> Enter the required information, such as `channel ID`, `channel IDs`, and `YouTube API`, depending on the selected operation. 
 
-> Click the "Get Data" button to fetch the data from YouTube and display it in a readable format. 
+> Click the `"Get Data"` button to fetch the data from YouTube and display it in a readable format.
 
-> The fetched data will be displayed on the web interface, and you can explore it further using the provided interactive reports. 
+> Click the `"Get Json"` button to fetch the data from YouTube and display it in a JSON format.
+
+> Click the `"Upload"` button to to upload the data fetched from the youtube to MongoDB
+
+> The uploaded data will then be displayed on the sidebar dropdown list.
+
+> Select the Youtube channel name from the dropdown list and click `"Upload to SQL"` to migrate the selected Database from MongoDB to Postgres
+
+> The Migrated data will be displayed on the Analysis Tab interface, and you can explore it further using the provided interactive Analysis. 
 
 > If you have MongoDB or PostgreSQL set up, you can configure the database connection by providing the necessary details in the respective fields. 
 
-> By default, the fetched data is stored in a CSV file in the project directory. You can change the output file path by specifying the desired path in the "Output File Path" field. 
-
-> To exit the application, press CTRL+C in the terminal or command prompt. 
+> To exit the application, press `CTRL+C` in the terminal or command prompt. 
 
 
 ## Additional Information 
