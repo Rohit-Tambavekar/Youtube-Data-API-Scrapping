@@ -1,6 +1,6 @@
 # YouTube Data Scraper 
 
-
+## Contents
 - [Introduction](#Introduction)
 - [Features](#features)
 - [Requirements](#Requirements)
@@ -9,10 +9,10 @@
 - [Screenshots](https://github.com/Rohit-Tambavekar/Youtube-Data-API-Scrapping/blob/main/Screenshot_1.png)
 - [License](#license)
 
-# Introduction
+## Introduction
 The YouTube Data Scraper is a Python application that allows you to fetch information from YouTube channels, videos, and playlists using the YouTube Data API. With this tool, you can easily gather valuable data from YouTube and perform various data analysis tasks. Whether you need to retrieve channel information, fetch video details, analyze comments, or generate reports, the YouTube Data Scraper has got you covered. 
 
-# Features 
+## Features 
 
 **The** YouTube Data Scraper offers a range of features to help you extract and analyze data from YouTube. Some of the key features include: 
 
@@ -34,7 +34,7 @@ In addition to fetching data for individual channels and videos, the YouTube Dat
 ### `Data Analysis and Reports:` 
 The YouTube Data Scraper provides various data analysis capabilities to help you make sense of the fetched data. Using the interactive reports feature, you can generate insightful visualizations and reports based on the retrieved information. The application utilizes the Plotly library for creating interactive and dynamic charts, making it easy to explore the data and draw meaningful conclusions. 
 
-## Requirements 
+### Requirements 
 
 To run the YouTube Data Scraper, you need to have the following requirements installed: 
 
@@ -55,27 +55,27 @@ To run the YouTube Data Scraper, you need to have the following requirements ins
  
 
 You can easily install the required dependencies by running the following command: 
-
-`pip install -r requirements.txt  `
-
+```
+pip install -r requirements.txt  
+```
 ## Installation 
 
 Follow these steps to set up the YouTube Data Scraper on your local machine: 
 
 `Clone the repository: `
-
+```
 git clone https://github.com/Rohit-Tambavekar/Youtube-Data-API-Scrapping
- 
+```
 
 ### Navigate to the project directory: 
+```
+cd youtube-data-scraper  
+ ```
 
-`cd youtube-data-scraper ` 
- 
-
-## Install the required dependencies:
-
- `pip install -r requirements.txt `
- 
+### Install the required dependencies:
+```
+ pip install -r requirements.txt 
+```
 
 ### Obtain YouTube API credentials: 
 
@@ -88,9 +88,9 @@ git clone https://github.com/Rohit-Tambavekar/Youtube-Data-API-Scrapping
 > Create API credentials for youtube API v3. 
 
 ### Run the application: 
-
-`streamlit run YoutubeAPI.py ` 
- 
+```
+streamlit run YoutubeAPI.py 
+```
 The application will start running and open in your default web browser. 
 
 ## App-Flow 
