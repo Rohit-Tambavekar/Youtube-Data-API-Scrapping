@@ -126,7 +126,7 @@ If you encounter any issues or have any questions, please refer to the project's
 
 ## Screenshots
 
-1. [[Get data Screenshot](https://github.com/Rohit-Tambavekar/Youtube-Data-API-Scrapping/blob/main/Screenshot_1.png)
+1. [Get data Screenshot](https://github.com/Rohit-Tambavekar/Youtube-Data-API-Scrapping/blob/main/Screenshot_1.png)
 
 2. [Get JSON Screenshot](https://github.com/Rohit-Tambavekar/Youtube-Data-API-Scrapping/blob/main/Screenshot_2.png)
 
