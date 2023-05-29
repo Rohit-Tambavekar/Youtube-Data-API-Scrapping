@@ -6,15 +6,15 @@
 - [Requirements](#Requirements)
 - [Installation](#installation)
 - [App-Flow](#App-Flow)
-- [Screenshots](https://github.com/Rohit-Tambavekar/Youtube-Data-API-Scrapping/blob/main/Screenshot_1.png)
+- [Screenshots](#Screenshots)
 - [License](#license)
 
 ## Introduction
 The YouTube Data Scraper is a Python application that allows you to fetch information from YouTube channels, videos, and playlists using the YouTube Data API. With this tool, you can easily gather valuable data from YouTube and perform various data analysis tasks. Whether you need to retrieve channel information, fetch video details, analyze comments, or generate reports, the YouTube Data Scraper has got you covered. 
 
-## Features 
+## Features
 
-**The** YouTube Data Scraper offers a range of features to help you extract and analyze data from YouTube. Some of the key features include: 
+The YouTube Data Scraper offers a range of features to help you extract and analyze data from YouTube. Some of the key features include: 
 
 ### `Get Channel Information: `
 You can fetch detailed information about a specific YouTube channel using its channel ID. The scraper retrieves the channel name, subscriber count, view count, description, country, video count, playlist ID, channel type, and channel status. This information can be useful for analyzing the popularity and engagement of a channel. Along with the channel details we can fetch the following sub-details in one go. 
